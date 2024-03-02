@@ -32,6 +32,22 @@
         }
         ]
 
+        },
+ {
+          "id": "3",
+          "name": "Daniel",
+          "password": "avila",
+          "content": "eng soft",
+          "exercices": [
+        {
+          "name": "rosca direta",
+          "reps": "15x3"
+        },
+        {
+          "name": "rosca martelo",
+          "reps": "10x3"
+        }
+        ]
         }
       ]
 }
