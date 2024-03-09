@@ -1,37 +1,29 @@
 {
-    "users": [
+  "users": [
+    {
+      "id": "48ee",
+      "name": "viktor",
+      "password": "atumalaka",
+      "content": "deu bom",
+      "exercises": [
         {
-          "id": "1",
-          "name": "viktor",
-          "password": "atumalaka",
-          "content": "eng soft",
-          "exercices": [
-        {
-          "name": "tríceps na corda",
-          "reps": "15x3"
+          "id": 0.8069108476847429,
+          "exName": "Descanso",
+          "day": "domingo"
         },
         {
-          "name": "rosca martelo",
-          "reps": "10x3"
-        }
-        ]
+          "id": 0.6962480255676817,
+          "exName": "Supino Declinado (MAQ)",
+          "day": "segunda",
+          "series": "3",
+          "repeats": "10"
         },
         {
-          "id": "2",
-          "name": "patrick",
-          "password": "stylo",
-          "content": "eng soft",
-          "exercices": [
-        {
-          "name": "tríceps na corda",
-          "reps": "15x3"
-        },
-        {
-          "name": "rosca invertida",
-          "reps": "10x3"
-        }
-        ]
-
+          "id": 0.6980752002723689,
+          "exName": "Descanso",
+          "day": "sabado"
         }
       ]
+    }
+  ]
 }
